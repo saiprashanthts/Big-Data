@@ -5,10 +5,9 @@ Contains Self Learned Big Data Projects
 	Titanic Data Analysis 
 ```
 
-```
-# Sales Data Analysis
+#Input File Description
 
-Input File Description
+```
 
 Personal Data
 
@@ -39,6 +38,6 @@ Following Operations are performed
 	7. Unioning the Data
 	8. Physical Plan
 	9. Cache, Storage Level, unPersist
-   10. writing the data 
+	10. writing the data 
 
 ```
